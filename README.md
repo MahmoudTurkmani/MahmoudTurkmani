@@ -21,7 +21,7 @@
 - Playing CTFs at spare time
 - Currently learning Web Development by Self
 - Looking to learn Game Devlopement in the future
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://i.ibb.co/wpvQrSg/Resume-Formal-Mahmoud-Trkumani.jpg)
+- I’m currently open for an Intern or a new job opportunity, feel free to email me for my resume!
 
 <br><br>
 
@@ -87,8 +87,9 @@
 <div align="center">
 
 <a href="https://github.com/MahmoudTurkmani">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudTurkmani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudTurkmani&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mahmoud Turkmani"/>
+  <img src="https://github-readme-stats-33ob2wx7z-mahmoudturkmani.vercel.app/api?username=MahmoudTurkmani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+	&nbsp;
+  <img src="https://github-readme-stats-33ob2wx7z-mahmoudturkmani.vercel.app/api?username=MahmoudTurkmani&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mahmoud Turkmani"/>
 
 </a>
 </div>
