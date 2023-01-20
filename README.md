@@ -18,8 +18,7 @@
 
 - A passionate Full-Stack developer (Web & Mobile)
 - Passionate about Competitive Programming
-- Playing CTFs at spare time
-- Currently learning Web Development by Self
+- Playing CTFs in my spare time
 - Looking to learn Game Devlopement in the future
 - I’m currently open for an Intern or a new job opportunity, feel free to email me for my resume!
 
